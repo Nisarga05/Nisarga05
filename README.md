@@ -1,16 +1,18 @@
-## Hi there 👋
+##  Hey there! I'm Nisarga C.
+💻 Full-Stack & Embedded Developer | 🎨 Artist at Heart | 🚀 tech Enthusiast
 
-<!--
-**Nisarga05/Nisarga05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working on:
 
-Here are some ideas to get you started:
+🌐 HTML Projects (Web Development & Design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 My Art Blog (Showcasing Creativity with Code)
+
+💡 Blending Art & Code to Create Beautiful and Functional Designs!
+🔎 Looking for teammates to collaborate on hackathons & innovative projects!
+
+🔧 Tech Stack:
+HTML | CSS | JavaScript | Python | Arduino | Embedded C
+
+🎭 Passionate about VLSI MAP, IoT, AI, Full-Stack Development, and Digital Art
+
+🚀 Let’s connect, collaborate, and build something amazing!
