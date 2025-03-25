@@ -17,3 +17,4 @@ HTML | CSS | JavaScript | Python | C programming | vlsi
 🧚🏽‍♀️ Passionate about VLSI MAP, IoT, AI, Full-Stack Development, and Digital Art
 
 🌚Let’s connect, collaborate, and build something amazing!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisarga05&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
