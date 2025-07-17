@@ -14,7 +14,7 @@ Aspiring Full-Stack developer | 🎨 Artist at Heart | 👾 tech Enthusiast
 🔧 Tech Stack:
 HTML | CSS | JavaScript | Python | C programming | vlsi
 
-🧚🏽‍♀️ Passionate about VLSI MAP, IoT, AI, Full-Stack Development, and Digital Art
+🧚🏽‍♀️ Passionate about web designing and game developing
 
 🌚Let’s connect, collaborate, and build something amazing!
 
