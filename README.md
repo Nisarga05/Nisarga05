@@ -1,5 +1,6 @@
 ##  Hello there! I'm Nisarga C
 Aspiring Full-Stack developer | 🎨 Artist at Heart | 👾 tech Enthusiast
+
 💡 Blending Art & Code to Create Beautiful and Functional Designs!
 
 🔧 Tech Stack:
