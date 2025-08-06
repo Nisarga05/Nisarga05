@@ -1,20 +1,9 @@
 ##  Hello there! I'm Nisarga C
 Aspiring Full-Stack developer | 🎨 Artist at Heart | 👾 tech Enthusiast
-
- Currently working on:
-
-🌐 HTML Projects (Web Development & Design)
-
-🎨 My Art Blog (Showcasing Creativity with Code)
- 
-
 💡 Blending Art & Code to Create Beautiful and Functional Designs!
-🕵🏽‍♀️ Looking for teammates to collaborate on hackathons & innovative projects!
 
 🔧 Tech Stack:
-HTML | CSS | JavaScript | Python | C programming | vlsi
-
-🧚🏽‍♀️ Passionate about web designing and game developing
+HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | C Programming | VLSI
 
 🌚Let’s connect, collaborate, and build something amazing!
 
